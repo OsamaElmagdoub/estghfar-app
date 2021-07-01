@@ -1,4 +1,4 @@
-# estghfar-app
+# estghfar
 
 A new Flutter project.
 
